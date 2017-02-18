@@ -49,7 +49,7 @@
 			"ubuntu_touch":
 				{
 					"req_multirom": "33",
-					"req_recovery": "mrom3.0.0"
+					"req_recovery": "3.0.0-0_"
 				}
 			}
 		]
