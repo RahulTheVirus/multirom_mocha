@@ -7,37 +7,36 @@
 		[
 			{"files":
 				[
-					{
+				/**	{
 						"url": "https://    /multirom-20170119-v33-UNOFFICIAL-mocha.zip",
 						"version": "33",
 						"type": "multirom",
 						"size": 3901183,
 						"md5": "1045b340d9cd217d12a1a5f8092c7837"
-               "sha-1":"c4d90429d06568670ea55edf615c1ea67be17bd8"
+                                                "sha-1":"c4d90429d06568670ea55edf615c1ea67be17bd8"
 					},
-					{
-						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/TWRP_multirom_mocha_3. 0.0.img",
+			         	{
+						"url": "   TWRP_multirom_mocha_3. 0.0.img",
 						"version": "mrom3.0.0",
 						"type": "recovery",
 						"size": 14931968,
 						"md5": "51307151e8a8b24950de7ec3724fff80"
-               "sha-1":" 3a2cd65db5cdc8d86e08659aee7492247159ac0c"
+                                                "sha-1":" 3a2cd65db5cdc8d86e08659aee7492247159ac0c"
+					},
+					**\
+					{
+						"extra": {"releases":["4.4.4_NH"]},
+						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/4.4.4kk/nethunterkernels4_4_KK.zip",						         "version": "4.4.x",
+						"md5": "f1d6ac22c61f3864097dc58d39aaec6d",						
+						"type": "kernel",
+						"size": 10607842,
 					},
 					{
-						"extra": {"releases":["4.4.4"]},
-						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/cm11.zip",
-						"version": "4.4.x",
-						"md5": "9193422998925abacd6c9084744ee22c",
+						"extra": {"releases":["5.1_NH"]},
+						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/CM_12.1/nethunterkernels_cm12-1.zip",						        "version": "5.x.x",
+						"md5": "5c2a1eb2ed3a5874d395457a3d0421eb",						
 						"type": "kernel",
-						"size": 8865295
-					},
-					{
-						"extra": {"releases":["5.1"]},
-						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/cm12.zip",
-						"version": "5.0.x",
-						"md5": "3d8126ae2f561bb554eea9d7d03b5feb",
-						"type": "kernel",
-						"size": 7639064
+						"size": 10368465,
 					},
 					{
 						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/multirom_uninstaller.zip",
