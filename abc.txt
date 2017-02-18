@@ -1,0 +1,58 @@
+{
+	"status": "ok",
+	"date": "2015-03-29",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "https://    /multirom-20170119-v33-UNOFFICIAL-mocha.zip",
+						"version": "33",
+						"type": "multirom",
+						"size": 3901183,
+						"md5": "1045b340d9cd217d12a1a5f8092c7837"
+               "sha-1":"c4d90429d06568670ea55edf615c1ea67be17bd8"
+					},
+					{
+						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/TWRP_multirom_mocha_3. 0.0.img",
+						"version": "mrom3.0.0",
+						"type": "recovery",
+						"size": 14931968,
+						"md5": "51307151e8a8b24950de7ec3724fff80"
+               "sha-1":" 3a2cd65db5cdc8d86e08659aee7492247159ac0c"
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/cm11.zip",
+						"version": "4.4.x",
+						"md5": "9193422998925abacd6c9084744ee22c",
+						"type": "kernel",
+						"size": 8865295
+					},
+					{
+						"extra": {"releases":["5.1"]},
+						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/cm12.zip",
+						"version": "5.0.x",
+						"md5": "3d8126ae2f561bb554eea9d7d03b5feb",
+						"type": "kernel",
+						"size": 7639064
+					},
+					{
+						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/multirom_uninstaller.zip",
+						"version": "",
+						"type": "uninstaller",
+						"size": 1623346,
+						"md5": "7e7f8c1cca762ba581a433b681a6b197"
+					}
+				],
+			"name": "a0001",
+			"ubuntu_touch":
+				{
+					"req_multirom": "33",
+					"req_recovery": "mrom3.0.0"
+				}
+			}
+		]
+}
