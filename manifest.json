@@ -12,16 +12,14 @@
 						"version": "33",
 						"type": "multirom",
 						"size": 3901183,
-						"md5": "1045b340d9cd217d12a1a5f8092c7837"
-                                                "sha-1":"c4d90429d06568670ea55edf615c1ea67be17bd8"
+						"md5": "1045b340d9cd217d12a1a5f8092c7837",
 					},
 			         	{
 						"url": "   TWRP_multirom_mocha_3. 0.0.img",
 						"version": "mrom3.0.0",
 						"type": "recovery",
 						"size": 14931968,
-						"md5": "51307151e8a8b24950de7ec3724fff80"
-                                                "sha-1": " 3a2cd65db5cdc8d86e08659aee7492247159ac0c"
+						"md5": "51307151e8a8b24950de7ec3724fff80",
 					},
 					**\
 					
