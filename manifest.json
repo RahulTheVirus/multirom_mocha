@@ -21,9 +21,10 @@
 						"type": "recovery",
 						"size": 14931968,
 						"md5": "51307151e8a8b24950de7ec3724fff80"
-                                                "sha-1":" 3a2cd65db5cdc8d86e08659aee7492247159ac0c"
+                                                "sha-1": " 3a2cd65db5cdc8d86e08659aee7492247159ac0c"
 					},
 					**\
+					
 					{
 						"extra": {"releases":["4.4.4_NH"]},
 						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/4.4.4kk/nethunterkernels4_4_KK.zip",						         "version": "4.4.x",
