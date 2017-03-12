@@ -14,6 +14,13 @@
 						"size": 3933716,
 						"md5": "ac811ae7650fe1865875cb944f95e349"
 					},
+									{
+						"url": "http://cm-shield.github.io/files/android/shieldtablet/multirom/twrp-multirom-20160422-UNOFFICIAL-shieldtablet.img",
+						"version": "mrom20160422-01",
+						"type": "recovery",
+						"size": 16568320,
+						"md5": "e5be3a352306185d513f37a0cf3f0527"
+					},
 					{
 						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/multirom/TWRP_Multirom_3.0.3.img",
 						"version": "mrom3.0.3-0",
