@@ -8,11 +8,10 @@
 			{"files":
 				[
 					{
-						"url": "http://cm-shield.github.io/files/android/shieldtablet/multirom/multirom-20150909-v32a-UNOFFICIAL-shieldtablet.zip",
-						"version": "32a",
+						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/multirom/multirom-20170312-v33-UNOFFICIAL-mocha.zip",
+						"version": "33",
 						"type": "multirom",
-						"size": 3933716,
-						"md5": "ac811ae7650fe1865875cb944f95e349"
+						"size": 3901269,
 					},
 					{
 						"url": "http://cm-shield.github.io/files/android/shieldtablet/multirom/twrp-multirom-20160422-UNOFFICIAL-shieldtablet.img",
