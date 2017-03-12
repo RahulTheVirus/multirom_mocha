@@ -25,8 +25,8 @@
 						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/multirom/multirom_uninstaller.zip",
 						"version": "",
 						"type": "uninstaller",
-						"size": 1739203,
-						"md5": "624e7265ca1c7fb4ce3bfa467af90e54"
+						"size": 1733374,
+						"md5": "a94ee196eb0dc507fa208da28f3bb70c"
 					},
 					{
 						"extra": {"releases":["5.0.1"]},
