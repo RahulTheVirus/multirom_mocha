@@ -70,26 +70,21 @@
                                         },
         	{
 						"extra": {"releases":["4.4.4_NH"]},
-						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/4.4.4kk/nethunterkernels4_4_KK.zip",						         "version": "4.4.x",
+						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/4.4.4kk/nethunterkernels4_4_KK.zip",
+			"version": "4.4.x",
 						"md5": "f1d6ac22c61f3864097dc58d39aaec6d",						
 						"type": "kernel",
 						"size": 10607842,
 					},
 					{
 						"extra": {"releases":["5.1_NH"]},
-						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/CM_12.1/nethunterkernels_cm12-1.zip",						        "version": "5.x.x",
+						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/CM_12.1/nethunterkernels_cm12-1.zip",
+						"version": "5.x.x",
 						"md5": "5c2a1eb2ed3a5874d395457a3d0421eb",						
 						"type": "kernel",
 						"size": 10368465,
-					},
-					{
-						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/multirom_uninstaller.zip",
-						"version": "",
-						"type": "uninstaller",
-						"size": 1623346,
-						"md5": "7e7f8c1cca762ba581a433b681a6b197"
-					}
-				],
+					}					
+],
                         "name": "mocha"
 			}
 		]
