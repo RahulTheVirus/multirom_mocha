@@ -1,0 +1,51 @@
+{
+	"status": "ok",
+	"date": "2015-09-11",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/multirom/multirom-20170312-v33-UNOFFICIAL-mocha.zip",
+						"version": "33",
+						"type": "multirom",
+						"size": 3933716,
+						"md5": "ac811ae7650fe1865875cb944f95e349"
+					},
+					{
+						"url": "http://cm-shield.github.io/files/android/shieldtablet/multirom/twrp-multirom-20160422-UNOFFICIAL-shieldtablet.img",
+						"version": "mrom20160422-01",
+						"type": "recovery",
+						"size": 16568320,
+						"md5": "e5be3a352306185d513f37a0cf3f0527"
+					},
+					{
+						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/multirom/multirom_uninstaller.zip",
+						"version": "",
+						"type": "uninstaller",
+						"size": 1733374,
+						"md5": "a94ee196eb0dc507fa208da28f3bb70c"
+					},
+					{
+						"extra": {"releases":["5.0.1"]},
+						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/4.4.4kk/nethunterkernels4_4_KK.zip",
+						"version": "StockMIUI-4.4.4",
+						"md5": "f1d6ac22c61f3864097dc58d39aaec6d",
+						"type": "kernel",
+						"size": 10607842
+					},
+					{
+                                                "extra": {"releases":["5.0.1"]},
+                                                "url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/CM_12.1/nethunterkernels_cm12-1.zip",
+                                                "version": "Nethunter-5.X.X",
+                                                "md5": "5c2a1eb2ed3a5874d395457a3d0421eb",
+                                                "type": "kernel",
+                                                "size": 10368465
+                                        }
+				],
+                        "name": "mocha"
+			}
+		]
+}
