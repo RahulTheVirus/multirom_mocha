@@ -42,13 +42,6 @@
 						"type": "kernel",
 						"size": 10368465,
 					},
-					{
-						"url": "https://dl.dropboxusercontent.com/u/98135991/multirom/multirom_uninstaller.zip",
-						"version": "",
-						"type": "uninstaller",
-						"size": 1623346,
-						"md5": "7e7f8c1cca762ba581a433b681a6b197"
-					}				
 ],
                         "name": "mocha"
 			}
