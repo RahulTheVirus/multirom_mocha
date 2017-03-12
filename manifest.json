@@ -43,14 +43,9 @@
 						"type": "uninstaller",
 						"size": 1623346,
 						"md5": "7e7f8c1cca762ba581a433b681a6b197"
-					}
+					 }
 				],
-			"name": "a0001",
-			"ubuntu_touch":
-				{
-					"req_multirom": "33",
-					"req_recovery": "3.0.0-0_"
-				}
+                        "name": "shieldtablet"
 			}
 		]
 }
