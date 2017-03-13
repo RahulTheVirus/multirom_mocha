@@ -31,15 +31,15 @@
 					{
 						"extra": {"releases":["5.0.1"]},
 						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/4.4.4kk/nethunterkernels4_4_KK.zip",
-						"version": "StockMIUI-4.4.4",
+						"version": "NetHunterMIUI-4.4.4",
 						"md5": "f1d6ac22c61f3864097dc58d39aaec6d",
 						"type": "kernel",
 						"size": 10607842
 					},
 					{
-                                                "extra": {"releases":["5.0.1"]},
+                                                "extra": {"releases":["5.1.1"]},
                                                 "url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/CM_12.1/nethunterkernels_cm12-1.zip",
-                                                "version": "Nethunter-5.X.X",
+                                                "version": "Nethunter-CM12.1",
                                                 "md5": "5c2a1eb2ed3a5874d395457a3d0421eb",
                                                 "type": "kernel",
                                                 "size": 10368465
