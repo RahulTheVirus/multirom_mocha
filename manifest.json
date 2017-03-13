@@ -14,9 +14,9 @@
 						"size": 3901269,
 						"md5": "e3203135fd4782b52b6ec6e5ab0f9d3c"
 					},
-          {
-						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/multirom/twrp-multirom-20170221-UNOFFICIAL-mocha.img",
-						"version": "mrom20170221-01",
+                                        {
+						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/multirom/twrp-multirom-20170311-UNOFFICIAL-mocha.img",
+						"version": "mrom20170311-01",
 						"type": "recovery",
 						"size": 15015936,
 						"md5": "39a210094cd6372be8a9f1c7448b72c4"
