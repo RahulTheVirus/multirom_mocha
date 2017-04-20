@@ -43,7 +43,15 @@
                                                 "md5": "5c2a1eb2ed3a5874d395457a3d0421eb",
                                                 "type": "kernel",
                                                 "size": 10368465
-                                        }
+                                        },
+					{
+						"extra": {"releases":["6.0.1"]},
+						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/LineageOS/los13_stock.zip",
+						"version": "Los_13_stock",
+						"md5": "d7d4b9adbf582d4c7f9818cf980d2fb9",
+						"type": "kernel",
+						"size": 8842024	
+					}
 				],
                         "name": "mocha"
 			}
