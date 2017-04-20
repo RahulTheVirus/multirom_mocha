@@ -8,21 +8,21 @@
 			{"files":
 				[
 					{
-						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/multirom/multirom-20170312-v33-UNOFFICIAL-mocha.zip",
+						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/multirom-20170312-v33-UNOFFICIAL-mocha.zip",
 						"version": "33",
 						"type": "multirom",
 						"size": 3901269,
 						"md5": "e3203135fd4782b52b6ec6e5ab0f9d3c"
 					},
                                         {
-						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/multirom/twrp-multirom-20170311-UNOFFICIAL-mocha.img",
+						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/twrp-multirom-20170311-UNOFFICIAL-mocha.img",
 						"version": "mrom20170311-01",
 						"type": "recovery",
 						"size": 15194112,
 						"md5": "94e044444d155dcd05eaa50ab9d9048e"
 					},
 					{
-						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/multirom/multirom_uninstaller.zip",
+						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/multirom_uninstaller.zip",
 						"version": "",
 						"type": "uninstaller",
 						"size": 1733374,
@@ -30,7 +30,7 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/4.4.4kk/nethunterkernels4_4_KK.zip",
+						"url": "https://rahulthevirus.github.io/multirom_mocha/Nethunter_kernels/4.4.4kk/nethunterkernels4_4_KK.zip",
 						"version": "NetHunterMIUI-4.4.4",
 						"md5": "f1d6ac22c61f3864097dc58d39aaec6d",
 						"type": "kernel",
@@ -38,7 +38,7 @@
 					},
 					{
                                                 "extra": {"releases":["5.1.1"]},
-                                                "url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/Nethunter_kernels/CM_12.1/nethunterkernels_cm12-1.zip",
+                                                "url": "https://rahulthevirus.github.io/multirom_mocha/Nethunter_kernels/CM_12.1/nethunterkernels_cm12-1.zip",
                                                 "version": "Nethunter-CM12.1",
                                                 "md5": "5c2a1eb2ed3a5874d395457a3d0421eb",
                                                 "type": "kernel",
@@ -46,7 +46,7 @@
                                         },
 					{
 						"extra": {"releases":["6.0.1"]},
-						"url": "https://raw.githubusercontent.com/RahulTheVirus/multirom_mocha/master/LineageOS/los13_stock.zip",
+						"url": "https://rahulthevirus.github.io/multirom_mocha/LineageOS/los13_stock.zip",
 						"version": "Los_13_stock",
 						"md5": "d7d4b9adbf582d4c7f9818cf980d2fb9",
 						"type": "kernel",
