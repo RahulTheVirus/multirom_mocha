@@ -6,6 +6,6 @@ here
 
 i am making this for multirom app support
 for mocha 
-for personal use only.
-all mazor credit to it's developer !
+for nonprofit & personal use only.
+all major credit to it's developer !
 thanks !
