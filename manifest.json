@@ -8,7 +8,7 @@
 			{"files":
 				[
 					{
-						"extra": {"releases":["MIUI"]},
+						"extra": {"releases":["4.4.4"]},
 						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/multirom-20170312-v33-UNOFFICIAL-mocha.zip",
 						"version": "33miui",
 						"type": "multirom",
@@ -16,7 +16,7 @@
 						"md5": "e3203135fd4782b52b6ec6e5ab0f9d3c"
 					},
 					{
-						"extra": {"releases":["Los"]},
+						"extra": {"releases":["7.1.2"]},
 						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/multirom-20170723-v33-UNOFFICIAL-mocha.zip",
 						"version": "33",
 						"type": "multirom",
