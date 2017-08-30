@@ -8,11 +8,20 @@
 			{"files":
 				[
 					{
+						"extra": {"releases":["4.4.4", "5.1.1", "6.0.1"]},
 						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/multirom-20170312-v33-UNOFFICIAL-mocha.zip",
-						"version": "33",
+						"version": "33_miui_base",
 						"type": "multirom",
 						"size": 3901269,
 						"md5": "e3203135fd4782b52b6ec6e5ab0f9d3c"
+					},
+					{
+						"extra": {"releases":["7.1.2"]},
+						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/multirom-20170723-v33-UNOFFICIAL-mocha.zip",
+						"version": "33_los_base",
+						"type": "multirom",
+						"size": 3899899,
+						"md5": "1928e92c91576c28f5fda19afaee80dd"
 					},
                                         {
 						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/twrp-multirom-20170311-UNOFFICIAL-mocha.img",
