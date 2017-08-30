@@ -15,6 +15,14 @@
 						"size": 3901269,
 						"md5": "e3203135fd4782b52b6ec6e5ab0f9d3c"
 					},
+					{
+						"extra": {"releases":["Los"]},
+						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/multirom-20170723-v33-UNOFFICIAL-mocha.zip",
+						"version": "33",
+						"type": "multirom",
+						"size": 3899899,
+						"md5": "1928e92c91576c28f5fda19afaee80dd"
+					},
                                         {
 						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/twrp-multirom-20170311-UNOFFICIAL-mocha.img",
 						"version": "mrom20170311-01",
