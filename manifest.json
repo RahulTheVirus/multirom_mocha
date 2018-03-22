@@ -8,19 +8,19 @@
 			{"files":
 				[
 					{
-						"extra": {"releases":["4.4.4"]},
-						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/multirom-20170312-v33-UNOFFICIAL-mocha.zip",
-						"version": "33",
+						"extra": {"releases":["7.1.2"]},
+						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/multirom-20180321-v33x-UNOFFICIAL-mocha.zip",
+						"version": "33x",
 						"type": "multirom",
-						"size": 3901269,
-						"md5": "e3203135fd4782b52b6ec6e5ab0f9d3c"
+						"size": 3948399,
+						"md5": "3ad324fbe2a046336fb37ce1ce8e8c08"
 					},
                                         {
-						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/twrp-multirom-20170311-UNOFFICIAL-mocha.img",
-						"version": "mrom20170311-01",
+						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/twrp-multirom-20180321-UNOFFICIAL-mocha.img",
+						"version": "mrom20180321-01",
 						"type": "recovery",
-						"size": 15194112,
-						"md5": "94e044444d155dcd05eaa50ab9d9048e"
+						"size": 18565120,
+						"md5": "d892f99af9c4ed6ee710e277f4f113f7"
 					},
 					{
 						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/multirom_uninstaller.zip",
