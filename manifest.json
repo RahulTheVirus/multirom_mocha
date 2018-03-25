@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2018-03-21",
+	"date": "2018-03-25",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -19,8 +19,8 @@
 						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/twrp-multirom-20180321-UNOFFICIAL-mocha.img",
 						"version": "mrom20180321-01",
 						"type": "recovery",
-						"size": 18565120,
-						"md5": "d892f99af9c4ed6ee710e277f4f113f7"
+						"size": 18722816,
+						"md5": "e2f83ae3f6802772b28c79a35d75b3cc"
 					},
 					{
 						"url": "https://rahulthevirus.github.io/multirom_mocha/multirom/multirom_uninstaller.zip",
